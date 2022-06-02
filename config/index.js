@@ -6,3 +6,7 @@ module.exports = {
   message: process.env.TEXTNOW_MESSAGE || 'auto-send message',
   captchaToken: process.env.CAPTCHA_TOKEN || '',
 };
+npm install
+# or "yarn install"
+npm start
+# or "yarn start"
